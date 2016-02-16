@@ -1,0 +1,93 @@
+* {
+  text-shadow: 30px 30px 60px rgba(0,0,0,1);
+}
+
+nav li {
+  font-size: 27px;
+  text-shadow: 30px 30px 60px rgba(0,0,0,1);
+  list-style-type: none;
+}
+
+nav li a:hover {
+  text-decoration: none;
+}
+
+#background {
+  height: 820px;
+  width: 1500px;
+  background: linear-gradient(20deg,black,white);
+}
+
+#hole1 {
+  height: 397px;
+  width: 195px;
+  position: absolute;
+  left: 55px;
+  top: 53px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 30px 30px 60px 0px rgba(0,0,0,.6) inset;
+  padding-top: 40px;
+  padding-left: 20px;
+}
+
+#hole1-thickness {
+  height: 400px;
+  width: 200px;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  background: linear-gradient(45deg, #52493B, #363026);
+  border-radius: 10px;
+}
+
+#cutout1 {
+  height: 400px;
+  width: 200px;
+  position: absolute;
+  left: 90px;
+  top: 300px;
+  border-radius: 10px;
+  box-shadow: 30px 30px 60px 0px rgba(0,0,0,.7);
+}
+
+#cutout1-thickness {
+  height: 405px;
+  width: 205px;
+  position: absolute;
+  left: 90px;
+  top: 300px;
+  background: linear-gradient(45deg, #363026, #736752);
+  border-radius: 10px;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 18px;
+  box-shadow: 30px 30px 60px 0px rgba(0,0,0,.7);
+}
+
+#hole2 {
+  height: 600px;
+  width: 600px;
+  position: absolute;
+  left: 390px;
+  top: 70px;
+  background-color: white;
+  border-radius: 100%;
+  box-shadow: 30px 30px 60px 0px rgba(0,0,0,.6) inset;
+  padding-top: 150px;
+  text-align: center;
+  font-size: 40px;
+}
+
+#hole2-thickness {
+  height: 603px;
+  width: 605px;
+  position: absolute;
+  left: 385px;
+  top: 67px;
+  background: linear-gradient(45deg, #52493B, #363026);
+  border-radius: 100%;
+}
+
+a:hover, a:visited, a {
+  text-decoration: none;
+}

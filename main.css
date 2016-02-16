@@ -1,0 +1,224 @@
+nav li {
+  font-size: 27px;
+  text-shadow: 30px 30px 60px rgba(0,0,0,1);
+  list-style-type: none;
+}
+
+nav li a:hover {
+  text-decoration: none;
+}
+
+#hole1 {
+  height: 397px;
+  width: 195px;
+  position: absolute;
+  left: 55px;
+  top: 53px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 30px 30px 60px 0px rgba(0,0,0,.6) inset;
+  padding-top: 40px;
+  padding-left: 20px;
+}
+
+#hole1-thickness {
+  height: 400px;
+  width: 200px;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  background: linear-gradient(45deg, #52493B, #363026);
+  border-radius: 10px;
+}
+
+#cutout1 {
+  height: 400px;
+  width: 200px;
+  position: absolute;
+  left: 90px;
+  top: 300px;
+  border-radius: 10px;
+  box-shadow: 30px 30px 60px 0px rgba(0,0,0,.7);
+}
+
+#cutout1-thickness {
+  height: 405px;
+  width: 205px;
+  position: absolute;
+  left: 90px;
+  top: 300px;
+  background: linear-gradient(45deg, #363026, #736752);
+  border-radius: 10px;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 18px;
+  box-shadow: 30px 30px 60px 0px rgba(0,0,0,.7);
+}
+
+#hole2 {
+  height: 180px;
+  width: 280px;
+  position: absolute;
+  left: 560px;
+  top: 20px;
+  background-color: white;
+  border-radius: 10px;
+  border-bottom-left-radius: 8px;
+  box-shadow: 30px 30px 60px 0px rgba(0,0,0,.6) inset;
+}
+
+#hole2-thickness {
+  height: 183px;
+  width: 285px;
+  position: absolute;
+  left: 555px;
+  top: 17px;
+  background: linear-gradient(45deg, #52493B, #363026);
+  border-radius: 10px;
+}
+
+#cutout2 {
+  height: 183px;
+  width: 285px;
+  position: absolute;
+  left: 820px;
+  top: 40px;
+  border-radius: 10px;
+  box-shadow: 30px 30px 60px 0px rgba(0,0,0,.7);
+}
+
+#cutout2-thickness {
+  height: 188px;
+  width: 290px;
+  position: absolute;
+  left: 820px;
+  top: 40px;
+  background: linear-gradient(45deg, #363026, #736752);
+  border-radius: 10px;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 18px;
+  box-shadow: 30px 30px 60px 0px rgba(0,0,0,.7);
+}
+
+.title-text {
+  font-family: Garamound;
+  font-size: 120px;
+  line-height: 140px;
+  text-shadow: 30px 30px 60px rgba(0,0,0,1);
+}
+
+#hole3 {
+  height: 360px;
+  width: 695px;
+  position: absolute;
+  left: 440px;
+  top: 263px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 30px 30px 60px 0px rgba(0,0,0,.6) inset;
+  padding: 50px;
+  padding-top: 10px;
+}
+
+#hole3-thickness {
+  height: 363px;
+  width: 700px;
+  position: absolute;
+  left: 435px;
+  top: 260px;
+  background: linear-gradient(45deg, #52493B, #363026);
+  border-radius: 10px;
+}
+
+#cutout3 {
+  height: 363px;
+  width: 700px;
+  position: absolute;
+  left: 350px;
+  top: 575px;
+  border-radius: 10px;
+  box-shadow: 30px 30px 60px 0px rgba(0,0,0,.7);
+}
+
+#cutout3-thickness {
+  height: 368px;
+  width: 705px;
+  position: absolute;
+  left: 350px;
+  top: 575px;
+  background: linear-gradient(45deg, #363026, #736752);
+  border-radius: 10px;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 18px;
+  box-shadow: 30px 30px 60px 0px rgba(0,0,0,.7);
+}
+
+#hole3 h1 {
+  text-shadow: 30px 30px 60px rgba(0,0,0,1);
+}
+
+#hole3 p {
+  font-size: 20px;
+  text-shadow: 30px 30px 60px rgba(0,0,0,1);
+}
+
+#hole3 span {
+  font-size: 25px;
+}
+
+#hole4 {
+  height: 300px;
+  width: 95px;
+  position: absolute;
+  left: 1220px;
+  top: 93px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 30px 30px 60px 0px rgba(0,0,0,.6) inset;
+  padding: 50px;
+  padding-top: 10px;
+}
+
+#hole4-thickness {
+  height: 303px;
+  width: 102px;
+  position: absolute;
+  left: 1215px;
+  top: 90px;
+  background: linear-gradient(45deg, #52493B, #363026);
+  border-radius: 10px;
+}
+
+#cutout4 {
+  height: 303px;
+  width: 102px;
+  position: absolute;
+  left: 1185px;
+  top: 350px;
+  border-radius: 10px;
+  box-shadow: 30px 30px 60px 0px rgba(0,0,0,.7);
+}
+
+#cutout4-thickness {
+  height: 308px;
+  width: 107px;
+  position: absolute;
+  left: 1185px;
+  top: 350px;
+  background: linear-gradient(45deg, #363026, #736752);
+  border-radius: 10px;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 18px;
+  box-shadow: 30px 30px 60px 0px rgba(0,0,0,.7);
+}
+
+#hole4 li {
+  font-size: 40px;
+  text-shadow: 30px 30px 60px rgba(0,0,0,1);
+  list-style-type: none;
+  position: relative;
+  right: 60px;
+}
+
+#hole4 li:nth-child(3) {
+  right: 68px;
+}
