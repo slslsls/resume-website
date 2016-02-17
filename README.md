@@ -28,7 +28,7 @@ Talking about oneself is hard and takes practice. This project is a great opport
 
 When you're ready to submit, please add the URLs of the following project assets into the project's `README.md` file.
 
-1. Wireframe - PASTE URL HERE
+1. Wireframe - https://github.com/spencerscarpelli/fs-professional-website/blob/master/images/wireframe.png
 1. Production environment - PASTE URL HERE
 
 Finally, submit your work by:
